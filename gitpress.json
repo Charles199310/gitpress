@@ -1,0 +1,16 @@
+{
+  "docs" : {
+    "my blog": "README.md",
+    "Activity": "/activty/"
+  },
+  "perpage" : 10,
+  "template" : "pithiness",
+  "types" : {
+    "\\.(md||markdown)$" : "markdown",
+    "\\.(js||css||json)$" : "code",
+    "\\.html?$" : "html",
+    ".*" : "text"
+  },
+  "title" : "Charles's Blog",
+  "comment"  : "on",
+}
